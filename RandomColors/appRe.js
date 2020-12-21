@@ -3,7 +3,7 @@ const btn2 = document.querySelector('button:nth-of-type(2)')
 const h1 = document.querySelector('h1')
 
 btn.addEventListener('click', () => {
-        changeAll();
+    changeAll();
 })
 
 const changeAll = () => {
